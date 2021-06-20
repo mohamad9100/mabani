@@ -1,0 +1,11 @@
+body{
+    text-align: right !important;
+    direction: rtl;
+    font-family: 'Sahel', sans-serif;
+}
+
+@media (min-width: 992px) {
+    #content{
+        margin-right: 300px;
+    }
+}
